@@ -1,19 +1,25 @@
-<div>
-    <h2>Claws in your leg</h2>
-    <p>Cat ipsum dolor sit amet, velitesse exercitationem quae. Consequat nemo and nostrum so veritatis architecto natus or minima. Quia laborum cillum, yet aliquip so elit deserunt or tempora. Commodo dolores, but irure and accusantium. Reprehenderit. Ullamco totam consequatur or nisi deserunt iure. Ratione enim. Aute iure. Occaecat. Quisquam iure so dolores quia so nostrud. Aut sint and ullam or dolore or anim qui incidunt. Ex occaecat for sit lorem ut yet autem for velitesse. Sequi. Natus. Culpa. Cupidatat est and iste.</p>
+<div id="intro" class="intro">
     <p>
-        Consectetur error for modi for quisquam cupidatat. Fugiat consectetur, or ipsam lorem. Accusantium mollit and veritatis. Fugit architecto vel exercitation. Ratione do iure and quaerat. Esse id or nemo for fugit and vitae. Illum sint or aut or doloremque so aperiam eaque sequi. Tempor qui ratione or inventore modi but aliqua or veniam. Adipisicing. Si aliqua excepteur for occaecat so ipsam. Exercitationem occaecat iure dolores nequeporro for dolores.
-    
+        Isabella is a full stack developer with a great interest in technology, both software and hardware. She
+        entered the development field through her previous profession in accessibility for television, where a
+        previously dormant interest in programming flourished when new systems were to be developed.
+        Isabella started her career in development via the polytechnic program System Development .NET at
+        Nackademin.
     </p>
     <p>
-        Pariatur quisquam. Sunt mollit. Dicta vitae, vel ullamco or molestiae quae dolore. Unde laborum or occaecat. Dolor. Ipsum sequi consequatur ab incididunt. Exercitationem aliquip. Officia commodo, but deserunt. Molestiae amet. Nemo magnam totam so aperiam yet aliqua.
+        After an earlier focus on backend, curiosity and her own will to develop have recently driven her more
+        towards frontend. She is attracted by the ability to control the user experience, with stylish and
+        accessible interfaces.
+    </p>
+    <p>
+        Isabella likes open source and using technology to make people's everyday lives easier. IoT and
+        cycling are her major hobbies.
     </p>
 </div>
 
 <style>
-    h2 {
-        font-family: 'Montserrat Subrayada', sans-serif;
-        text-align: left;
+    .intro {
+        padding: 3rem 0;
     }
     p {
         font-family: 'Libre Baskerville', serif;
