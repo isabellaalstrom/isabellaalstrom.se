@@ -4,6 +4,7 @@
     import "@fontsource/montserrat-subrayada";
     import "@fontsource/libre-baskerville";
     import "@fontsource/montserrat";
+    import './../lib/global.css';
 </script>
 <div class="app-container">
 <Header />
