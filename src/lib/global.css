@@ -1,3 +1,15 @@
 #CybotCookiebotDialogPoweredbyLink {
     display: none !important;
 }
+#CybotCookiebotDialogBodyContentText {
+    display: none !important;
+}
+#CybotCookiebotDialogBodyButtonsWrapper {
+    flex-direction: row-reverse !important;
+}
+.CybotCookiebotDialogBodyBottomWrapper{
+margin: 0 !important
+}
+#CybotCookiebotDialogBody{
+    flex-direction: row !important;
+}
