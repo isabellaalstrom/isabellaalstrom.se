@@ -16,7 +16,8 @@ margin: 0 !important
 #CybotCookiebotDialogBodyButtonsWrapper button {
     height: 3rem !important;
 }
-.CybotCookiebotScrollContainer{
+.CybotCookiebotScrollContainer, .CybotCookiebotDialogBodyBottomWrapper {
     height: 3rem !important;
     width: 20rem !important;
+    align-items: center;
 }
