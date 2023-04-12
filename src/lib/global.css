@@ -15,12 +15,14 @@ margin: 0 !important
 }
 #CybotCookiebotDialogBodyButtonsWrapper button {
     height: 3rem !important;
+    margin: 0 8px 0 0 !important;
 }
 .CybotCookiebotScrollContainer, .CybotCookiebotDialogBodyBottomWrapper {
     height: 3rem !important;
     width: 20rem !important;
     align-items: center !important;
     flex-direction: row !important;
+    padding: 0.375em !important;
 }
 #CybotCookiebotDialogBodyContentTitle{
     margin: 0 !important;
@@ -28,4 +30,10 @@ margin: 0 !important
 #CybotCookiebotDialogHeader{
     height: 2.5rem !important;
     margin-top: -1rem !important;
+}
+#CybotCookiebotDialog{
+    padding: 8px !important;
+}
+.CybotCookiebotDialogBodyBottomWrapper{
+    display: none !important;
 }
