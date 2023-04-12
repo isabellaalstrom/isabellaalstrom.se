@@ -1,5 +1,5 @@
 <Headroom offset={25}>
-	<header>
+	<header class="tracking-in-expand">
 		<nav>
 			<ul class="main-nav">
 				<li class="name" ><a href="/">Isa</a></li>
@@ -16,6 +16,10 @@
 	</header>
 </Headroom>
 <style>
+.tracking-in-expand {
+	-webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) 1.5s both;
+	        animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) 1.5s both;
+}
 	.name {
         font-family: 'Montserrat Subrayada', sans-serif;
         font-size: 2rem;

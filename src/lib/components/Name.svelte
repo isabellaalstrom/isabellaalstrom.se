@@ -11,8 +11,8 @@
         font-size: 10rem;
         word-spacing: 100vw;
         margin: auto;
-        -webkit-animation: text-focus-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.5s ;
-        animation: text-focus-in 1.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.5s ;
+        -webkit-animation:  text-focus-in cubic-bezier(0.550, 0.085, 0.680, 0.530) 1.5s;
+        animation: text-focus-in cubic-bezier(0.550, 0.085, 0.680, 0.530) 1.5s;
     }
 
     /* Medium screens */
