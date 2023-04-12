@@ -19,5 +19,13 @@ margin: 0 !important
 .CybotCookiebotScrollContainer, .CybotCookiebotDialogBodyBottomWrapper {
     height: 3rem !important;
     width: 20rem !important;
-    align-items: center;
+    align-items: center !important;
+    flex-direction: row !important;
+}
+#CybotCookiebotDialogBodyContentTitle{
+    margin: 0 !important;
+}
+#CybotCookiebotDialogHeader{
+    height: 2.5rem !important;
+    margin-top: -1rem !important;
 }
